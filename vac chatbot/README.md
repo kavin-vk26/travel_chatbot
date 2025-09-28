@@ -126,11 +126,4 @@ Bot: Great! Do you prefer mountains or beaches?
 * Add authentication for secure usage
 * Deploy on cloud platforms (Render, Railway, etc.)
 
----
 
-## 👨‍💻 Author
-
-Built with ❤️ by [Your Name]
-Feel free to contribute or open issues!
-
----
